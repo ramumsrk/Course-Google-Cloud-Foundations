@@ -1,0 +1,1 @@
+# [Zonal , regional , multiregional , and global resources](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources)

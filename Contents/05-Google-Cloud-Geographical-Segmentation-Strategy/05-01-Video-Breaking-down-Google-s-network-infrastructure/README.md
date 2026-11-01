@@ -1,0 +1,2 @@
+# [Breaking down Google's network infrastructure](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture)
+[Cloud locations](https://cloud.google.com/about/locations)

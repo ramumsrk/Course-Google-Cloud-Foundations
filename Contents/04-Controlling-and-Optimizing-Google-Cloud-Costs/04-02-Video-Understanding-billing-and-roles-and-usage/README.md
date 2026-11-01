@@ -1,0 +1,1 @@
+# [Understanding billing roles and usage](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage)

@@ -1,0 +1,1 @@
+# [Understanding Google Cloud resources and hierarchy](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy)

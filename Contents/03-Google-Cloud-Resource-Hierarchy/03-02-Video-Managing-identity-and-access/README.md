@@ -1,0 +1,1 @@
+# [Managing identity and access](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access)

@@ -1,0 +1,1 @@
+# [Learning more about Google Cloud](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud)

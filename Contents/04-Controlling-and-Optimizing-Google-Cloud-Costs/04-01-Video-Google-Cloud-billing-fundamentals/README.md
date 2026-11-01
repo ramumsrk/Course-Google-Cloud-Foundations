@@ -1,0 +1,1 @@
+# [Google Cloud billing fundamentals](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals)

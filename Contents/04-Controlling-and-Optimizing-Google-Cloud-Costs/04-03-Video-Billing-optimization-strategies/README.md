@@ -1,0 +1,1 @@
+# [Billing optimization strategies](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies)

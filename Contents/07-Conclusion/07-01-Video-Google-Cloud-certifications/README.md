@@ -1,0 +1,1 @@
+# [Google Cloud certifications](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications)
